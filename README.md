@@ -1,4 +1,7 @@
 # Abstract
 This study conducts a comparative analysis of facial expression classification models, focusing on evaluating their performance, identifying biases, and enhancing interpretability through visualisation techniques. Results reveal DenseNet and ResNet outperform CNN in facial expression classification on the same dataset. DenseNet achieves the highest accuracy (50.74%), closely followed by ResNet (50.46%), while CNN trails with 16.13%. Additionally, DenseNet exhibits the lowest average test loss (1.2905), indicating superior error minimisation compared to ResNet (1.3763) and CNN (1.9424). By systematically comparing various classification models, this research aims to shed light on their strengths, weaknesses, and potential biases in the context of emotion recognition tasks.
 
-# Introduction
+# Motivation
+This study aims to comprehensively analyse facial expression classification by comparing models to understand their strengths, weaknesses, and biases. We will use visualisation techniques like heat maps and saliency maps to improve result interpretability, revealing key facial areas influencing classification. My motivation for the research stems from my interest in data analysis and non-verbal communication. Facial expression recognition is vital in areas like mental health, human-computer interaction, and security, but current models often show performance inconsistencies and biases. By comparing models, assessing their performance and biases, and developing better visualization techniques, I aim to create more accurate, fair, and interpretable systems, aligning with my passion for enhancing technological and ethical standards in data-driven communication.
+
+.
