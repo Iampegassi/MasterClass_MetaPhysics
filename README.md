@@ -4,4 +4,5 @@ This study conducts a comparative analysis of facial expression classification m
 # Motivation
 This study aims to comprehensively analyse facial expression classification by comparing models to understand their strengths, weaknesses, and biases. We will use visualisation techniques like heat maps and saliency maps to improve result interpretability, revealing key facial areas influencing classification. My motivation for the research stems from my interest in data analysis and non-verbal communication. Facial expression recognition is vital in areas like mental health, human-computer interaction, and security, but current models often show performance inconsistencies and biases. By comparing models, assessing their performance and biases, and developing better visualization techniques, I aim to create more accurate, fair, and interpretable systems, aligning with my passion for enhancing technological and ethical standards in data-driven communication.
 
-.
+# Dataset
+Here is a link to my dataset I used. https://www.kaggle.com/datasets/pegassi12/facial-expression-dataset-for-comparative-analysis
